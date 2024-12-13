@@ -1,7 +1,5 @@
-## <img alt="fr flag" src="https://github.com/user-attachments/assets/f64a68e5-b499-45f2-98c4-d289ecf013b8" width="30"> Présentation professionnelle de Marc Borand
-English version [here](#-marc-borands-professional-presentation)
-
-### **Supply Chain Data Analyst | Expert en Informatique Logistique et BI**
+### <img alt="fr flag" src="https://github.com/user-attachments/assets/f64a68e5-b499-45f2-98c4-d289ecf013b8" width="30"> **Supply Chain Data Analyst | Expert en Informatique Logistique et BI**
+English version [here](#supply-chain-data-analyst--logistics-it-and-bi-expert)
 
 ### Profil
 
@@ -33,8 +31,8 @@ Expert en informatique de la logistique (supply chain) et BI (décisionnel) avec
 
 ### Formation
 
-- **Data Upskilling** - Linux (Bash), SQL, Python (Pandas, Streamlit, FastAPI), Git/GitHub (10/2024 - 12/2024)
-- **Data Analyst** - Wild Code School - Formation certifiée (Bac +4 / RNCP Niv 6) (09/2023 - 04/2024)
+- [**Data Upskilling**](https://benjamin-dubreu.systeme.io/school/course/data-upskilling) - Linux (Bash), SQL, Python (Pandas, Streamlit, FastAPI), Git/GitHub (10/2024 - 12/2024)
+- [**Data Analyst** - Wild Code School](https://www.wildcodeschool.com/fr-fr/formation-data-analyst)rncp - Wild Code School - Formation certifiée (Bac +4 / RNCP Niv 6) (09/2023 - 04/2024)
 - **Licence Informatique et réseaux** - Lycée Parc de Vilgénis, Massy (2000)
 
 ### Projets Notables
@@ -48,14 +46,13 @@ Expert en informatique de la logistique (supply chain) et BI (décisionnel) avec
 Aviron (double et quatre), Running (du 10 km au marathon), Vélo
 
 ---
-## <img alt="uk flag" src="https://github.com/user-attachments/assets/a0dd624b-be3b-47a0-98a1-6fb56bca177c" width="30"> Marc Borand's Professional Presentation
-Version française [ici](#supply-chain-data-analyst--expert-en-informatique-logistique-et-bi)
 
-**Supply Chain Data Analyst | Logistics IT and BI Expert**
+### <img alt="uk flag" src="https://github.com/user-attachments/assets/a0dd624b-be3b-47a0-98a1-6fb56bca177c" width="30"> **Supply Chain Data Analyst | Logistics IT and BI Expert**
+Version française [ici](#supply-chain-data-analyst--expert-en-informatique-logistique-et-bi)
 
 ### Profile
 
-Expert in logistics IT (supply chain) and BI (decision-making) with over 20 years of experience in the field. Advanced mastery of SQL and analysis tools such as Python, Power BI, and MyReport. Passionate about process optimization through data analysis, I am recognized for my ability to solve complex problems, clearly communicate insights, and collaborate effectively within cross-functional teams[1][3].
+Expert in logistics IT (supply chain) and BI (decision-making) with over 20 years of experience in the field. Advanced mastery of SQL and analysis tools such as Python, Power BI, and MyReport. Passionate about process optimization through data analysis, I am recognized for my ability to solve complex problems, clearly communicate insights, and collaborate effectively within cross-functional teams.
 
 ### Key Skills
 
@@ -83,8 +80,8 @@ Expert in logistics IT (supply chain) and BI (decision-making) with over 20 year
 
 ### Education
 
-- **Data Upskilling** - Wild Code School (10/2024 - 12/2024)
-- **Data Analyst** - Certified Training (Bac +4 / RNCP Level 6) (09/2023 - 04/2024)
+- [**Data Upskilling**](https://benjamin-dubreu.systeme.io/school/course/data-upskilling) - Linux (Bash), SQL, Python (Pandas, Streamlit, FastAPI), Git/GitHub (10/2024 - 12/2024)
+- [**Data Analyst** - Wild Code School](https://www.wildcodeschool.com/fr-fr/formation-data-analyst) - Certified Training (Bac +4 / RNCP Level 6) (09/2023 - 04/2024)
 - **Computer Science and Networks Degree** - Lycée Parc de Vilgénis, Massy (2000)
 
 ### Notable Projects
