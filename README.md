@@ -1,5 +1,5 @@
 ## <img alt="fr flag" src="https://github.com/user-attachments/assets/f64a68e5-b499-45f2-98c4-d289ecf013b8" width="30"> Présentation professionnelle de Marc Borand
-English version [here](#marc-borand's-professional-presentation)
+English version [here](#-marc-borands-professional-presentation)
 
 ### **Supply Chain Data Analyst | Expert en Informatique Logistique et BI**
 
@@ -49,7 +49,7 @@ Aviron (double et quatre), Running (du 10 km au marathon), Vélo
 
 ---
 ## <img alt="uk flag" src="https://github.com/user-attachments/assets/a0dd624b-be3b-47a0-98a1-6fb56bca177c" width="30"> Marc Borand's Professional Presentation
-Version française [ici](#pr%C3%A9sentation-professionnelle-de-marc-borand)
+Version française [ici](#supply-chain-data-analyst--expert-en-informatique-logistique-et-bi)
 
 **Supply Chain Data Analyst | Logistics IT and BI Expert**
 
