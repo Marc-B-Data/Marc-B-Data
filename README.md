@@ -1,6 +1,7 @@
-## Présentation professionnelle : Je suis Marc Borand !
+## <img alt="fr flag" src="https://github.com/user-attachments/assets/f64a68e5-b499-45f2-98c4-d289ecf013b8" width="30"> Présentation professionnelle de Marc Borand
+English version [here](#marc-borand's-professional-presentation)
 
-**Supply Chain Data Analyst | Expert en Informatique Logistique et BI**
+### **Supply Chain Data Analyst | Expert en Informatique Logistique et BI**
 
 ### Profil
 
@@ -32,8 +33,8 @@ Expert en informatique de la logistique (supply chain) et BI (décisionnel) avec
 
 ### Formation
 
-- **Data Upskilling** - Wild Code School (10/2024 - 12/2024)
-- **Data Analyst** - Formation certifiée (Bac +4 / RNCP Niv 6) (09/2023 - 04/2024)
+- **Data Upskilling** - Linux (Bash), SQL, Python (Pandas, Streamlit, FastAPI), Git/GitHub (10/2024 - 12/2024)
+- **Data Analyst** - Wild Code School - Formation certifiée (Bac +4 / RNCP Niv 6) (09/2023 - 04/2024)
 - **Licence Informatique et réseaux** - Lycée Parc de Vilgénis, Massy (2000)
 
 ### Projets Notables
@@ -47,8 +48,8 @@ Expert en informatique de la logistique (supply chain) et BI (décisionnel) avec
 Aviron (double et quatre), Running (du 10 km au marathon), Vélo
 
 ---
-
-## Professional Presentation : I'm Marc Borand !
+## <img alt="uk flag" src="https://github.com/user-attachments/assets/a0dd624b-be3b-47a0-98a1-6fb56bca177c" width="30"> Marc Borand's Professional Presentation
+Version française [ici](#pr%C3%A9sentation-professionnelle-de-marc-borand)
 
 **Supply Chain Data Analyst | Logistics IT and BI Expert**
 
